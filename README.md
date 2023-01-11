@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on public/foreign policy-related quantitative research.
 - 📫 Contact: acguo24@g.holycross.edu
 
-Repositories (R, Stata, Python) are set to private for integrity/security purposes. For viewing repositories, please contact using the email above. 
+Repositories (R, Stata, Python, SQL) are set to private for integrity/security purposes. For viewing repositories, please contact using the email above. 
 
 
 <!---
